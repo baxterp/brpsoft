@@ -1,0 +1,11 @@
+Test locally
+
+npm install
+heroku local
+
+Commit Changes
+
+git add .
+git commit -m "Demo"
+git push heroku master
+heroku open
